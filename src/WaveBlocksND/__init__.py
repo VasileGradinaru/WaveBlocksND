@@ -69,6 +69,8 @@ from ParameterProvider import ParameterProvider
 
 from TimeManager import TimeManager
 
+from Initializer import Initializer
+
 from SimulationLoop import SimulationLoop
 from SimulationLoopFourier import SimulationLoopFourier
 from SimulationLoopHagedorn import SimulationLoopHagedorn
